@@ -1,3 +1,4 @@
+#Bioloģijas tests
 import random
 
 def ievadi_vardu():
