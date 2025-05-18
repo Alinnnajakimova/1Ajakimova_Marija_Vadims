@@ -1,2 +1,2 @@
-ygyygygy
-Informātikas darbs
+A.Jakimova 
+Informātikas projekts
