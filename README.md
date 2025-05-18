@@ -1,2 +1,2 @@
-# 1Ajakimova_Marija_Vadims
+ygyygygy
 Informātikas darbs
