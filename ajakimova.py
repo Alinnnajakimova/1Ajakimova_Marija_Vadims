@@ -17,6 +17,10 @@ def biologijas_tests():
         {
             "jautajums": "Kurš orgāns atbild par skābekļa apmaiņu?",
             "atbilde": "plaušas"
+        },
+        {
+            "jautajums": "Cik kāju ir kukainim?",
+            "atbilde": "6"
         }
     ]
 
